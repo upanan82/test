@@ -33,7 +33,9 @@ You can also use the same commands with [Yarn](https://yarnpkg.com/en/):
 
     yarn i
     yarn run dev
+    ```sh
     # or
+    ```
     yarn start
 
 Docker Support
