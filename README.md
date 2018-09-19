@@ -47,6 +47,14 @@ yarn start
 Build
 ---------------
 
+```sh
+# Build server
+npm run build
+
+# Or with Yarn
+yarn run build
+```
+
 
 
 Testing
