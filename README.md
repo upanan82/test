@@ -16,8 +16,12 @@ Getting Started
 ---------------
 
 Development Node Version: `v8.11.3`
+
 Install dependencies:
-  npm install
+
+    npm install
+
+
 ```sh
 # Install dependencies
 npm install
