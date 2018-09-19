@@ -19,7 +19,7 @@ Development Node Version: `v8.11.3`
 
 Install dependencies:
 
-    npm install
+    npm install / #yarn install
 
 
 ```sh
