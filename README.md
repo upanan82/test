@@ -30,12 +30,16 @@ Start production server:
     npm start
 
 You can also use the same commands with [Yarn](https://yarnpkg.com/en/):
+
 ```sh
+    # dependencies
     yarn i
+    # development server
     yarn run dev
-    # or
+    # or production server
     yarn start
 ```
+
 Docker Support
 ------
 ```sh
