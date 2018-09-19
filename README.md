@@ -29,7 +29,7 @@ Start production server:
 
     npm start
 
-You can also use the same commands with Yarn:
+You can also use the same commands with [Yarn](https://yarnpkg.com/en/):
 
     yarn i
     yarn run dev
