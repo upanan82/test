@@ -25,10 +25,15 @@ Start development live-reload server:
 
     npm run dev
 
-Or use Yarn:
+Start production server:
+
+    npm start
+
+Example using the Yarn:
 
     yarn i
     yarn run dev
+    yarn start
 ```sh
 # Install dependencies
 npm install
