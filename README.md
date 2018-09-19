@@ -21,10 +21,14 @@ Install dependencies:
 
     npm install
 
+Start development live-reload server:
+
+    npm run dev
+
 Or use Yarn:
 
     yarn i
-
+    yarn run dev
 ```sh
 # Install dependencies
 npm install
