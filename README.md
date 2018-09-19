@@ -21,7 +21,7 @@ Install dependencies:
 
     npm install
 
-Install dependencies with Yarn:
+Or use Yarn:
 
     yarn i
 
