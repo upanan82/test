@@ -1,4 +1,4 @@
-Express & ES6 REST API Boilerplate
+Blue Oyster OCR API
 ==================================
 
 This is a straightforward boilerplate for building REST APIs with ES6 and Express.
