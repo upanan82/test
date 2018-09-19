@@ -32,12 +32,12 @@ Start production server:
 You can also use the same commands with [Yarn](https://yarnpkg.com/en/):
 
 ```sh
-    # dependencies
-    yarn i
-    # development server
-    yarn run dev
-    # or production server
-    yarn start
+# Dependencies
+yarn i
+# Development server
+yarn run dev
+# Or production server
+yarn start
 ```
 
 Docker Support
