@@ -60,7 +60,7 @@ yarn build
 Testing
 ---------------
 
-Start testing with [ESlint](https://eslint.org/):
+Start testing with [ESLint](https://eslint.org/):
 ```sh
 npm run test
 
