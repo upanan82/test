@@ -36,7 +36,7 @@ You can also use the same commands with [Yarn](https://yarnpkg.com/en/):
 yarn i
 
 # Development server
-yarn run dev
+yarn dev
 
 # Or production server
 yarn start
@@ -52,7 +52,7 @@ Build
 npm run build
 
 # Or with Yarn
-yarn run build
+yarn build
 ```
 
 
