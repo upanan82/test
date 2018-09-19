@@ -47,8 +47,8 @@ yarn start
 Build
 ---------------
 
+Build server:
 ```sh
-# Build server
 npm run build
 
 # Or with Yarn
