@@ -29,23 +29,12 @@ Start production server:
 
     npm start
 
-Example using the Yarn:
+You can also use the same commands with Yarn:
 
     yarn i
     yarn run dev
     yarn start
-```sh
-# Install dependencies
-npm install
-# or
-yarn install
 
-# Start development live-reload server
-PORT=8080 npm run dev
-
-# Start production server:
-PORT=8080 npm start
-```
 Docker Support
 ------
 ```sh
