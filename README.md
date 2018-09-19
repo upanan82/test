@@ -34,8 +34,10 @@ You can also use the same commands with [Yarn](https://yarnpkg.com/en/):
 ```sh
 # Dependencies
 yarn i
+
 # Development server
 yarn run dev
+
 # Or production server
 yarn start
 ```
