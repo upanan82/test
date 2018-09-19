@@ -47,7 +47,7 @@ yarn start
 Build
 ---------------
 
-Build server:
+Server build:
 ```sh
 npm run build
 
@@ -59,3 +59,11 @@ yarn build
 
 Testing
 ---------------
+
+Start testing with eslint:
+```sh
+npm run test
+
+# Or with Yarn
+yarn test
+```
